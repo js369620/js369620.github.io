@@ -4,3 +4,6 @@ title: Test Page
 permalink: /testPage/
 ---
 
+This is a test to see if I made a page correctly.
+
+Whoa.
