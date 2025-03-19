@@ -9,4 +9,4 @@ This is a test to see if I made a page correctly.
 Whoa.
 
 
-[Look at this.](/assets/get nae-nae'd.png) 
+![Look at this.](/assets/get nae-nae'd.png) 
