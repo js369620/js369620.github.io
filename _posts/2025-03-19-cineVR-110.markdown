@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "CineVR with the Marching 110"
+date:   2025-03-17 14:10:32 -0400
+categories: jekyll update
+---
+
+For this project, I wanted to use CineVR to deliver an uncommon experience for fans of the Ohio University Marching 110. 
+
+Most online videos of the Marching 110 are often from afar or to the side of the band during performances. So, I wanted to bridge the gap between the audience and the band by putting the viewer inside the band block. By using a 360 camera with an ambisonic field recording setup, I was able to capture the look, sound, and excitement of the Marching 110 for outside viewers to get a sense of what it's like to be in the band.
+
+This was done in two attempts; the first had audio issues. Since the recording setup was in the middle of the band (and used 24-bit recording), loud sounds near the microphone would overpower everything else and cause peaks. To alleviate this, I was able to record in 32-bit float with upgraded audio equipment in the second attempt.
+
+For the best experience, use an HMD; if not available, use headphones. A high volume is recommended for full enjoyment. 
+
+<a href="https://youtu.be/7HRsYOr8XF4"> Marching 110: CineVR in the Stands </a>
+
+Equipment used: 
+ - Insta360 One X2 camera
+ - Sennheiser Ambeo microphone
+ - Zoom F6 Field Recorder
