@@ -21,18 +21,18 @@ In the end, the audio experience involves hearing the trolley blowing its horn f
 
 You can listen to some of the voice clips here. Be advised that some are screams, so you may want to adjust your volume accordingly.
 
-[I have a husband!](/assets/Adan_Husband.wav)
+[I have a husband!](/assets/Adan_Husband.m4a)
 
-[Please, God](/assets/Ava_Mercy.wav)
+[Please, God](/assets/Ava_Mercy.m4a)
 
-[Don't do it!](/assets/Makenna_Plead.wav)
+[Don't do it!](/assets/Makenna_Plead.m4a)
 
-[You have to let me out](/assets/Stefan_Discovery.wav)
+[You have to let me out](/assets/Stefan_Discovery.m4a)
 
-[Scream 1](/assets/Leanne_Scream.wav)
+[Scream 1](/assets/Leanne_Scream.m4a)
 
-[Scream 2](/assets/Makenna_Scream.wav)
+[Scream 2](/assets/Makenna_Scream.m4a)
 
-[Scream 3](/assets/Stefan_Scream1.wav)
+[Scream 3](/assets/Stefan_Scream1.m4a)
 
 You can find the repo here: <a href="https://github.com/gl-rukwa/pr0j3ct-wyrm"> Trolley Problem VR Repository </a>
