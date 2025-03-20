@@ -21,7 +21,7 @@ In the end, the audio experience involves hearing the trolley blowing its horn f
 
 You can listen to some of the voice clips here. Be advised that some are screams, so you may want to adjust your volume accordingly.
 
-![I have a husband!](/assets/Adan_Husband.wav)
+[I have a husband!](/assets/Adan_Husband.wav)
 
 [Please, God](/assets/Ava_Mercy.wav)
 
