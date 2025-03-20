@@ -21,7 +21,7 @@ Software: Unity, OptiTrack Motive, and Git
 
 Production: Game design, systems design, spatial audio design, and narrative design
 
-Other: time management, public spekaing, and project management
+Other: time management, public speaking, and project management
 
 ## Contact
 
