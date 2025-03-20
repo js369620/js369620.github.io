@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Charity"
+date:   2025-03-17 14:10:32 -0400
+categories: jekyll update
+---
+
+This is a game designed to be played with only hand gestures and talking. You can read the instructions attached here to learn how to play. It is recommended that you play the game before reading about its contexts below.
+
+[Charity Instructions](/assets/Sherlock_charity.pdf)
+
+This game is based on a game called “Vroom Vroom Skirt,” which is played very similarly (everyone gets in a circle, play is passed around the circle, etc.). My goal with making “Charity” was to take “Vroom Vroom Skirt” and make it more complicated but more accessible to everyone playing it. A critique I have with “Vroom Vroom Skirt” is that almost every time I’ve played it, there ended up being a situation where two players tended to pass their turns to each other over and over to try and trip up each other; while it’s entertaining to watch, it’s boring as a player because they are hogging all the fun. So, I added the insistence action to be able to force the game along, and the charity action to keep the other side of the circle involved. 
+
+Even though the game’s objective is to be the last man standing, this game is about social etiquette. When this was tested, we found that sometimes we would be forgiving if someone said a phrase slightly wrong (usually omitting one word but the meaning was still there), or if someone was slower to move because they couldn’t remember the exact phrase they were supposed to say. Part of the game involves the group calling out errors, so these small mistakes made the social aspect of the game interesting. One player mentioned being too nervous to call someone out for something small because they weren’t sure if that same reasoning would be used on them later, and that they didn’t want to make others feel bad for getting it wrong. This was a shining example of what we considered to be the hypocrisy of navigating social situations and norms. In real life, we may see things like this happen, like people not saying “Please” or not holding doors open for the person behind them, but if we are going to call them out on it we have to first think, do we ourselves uphold the norms that we believe in? Is it worth it to call someone out on something small, or do we let it slide? 
