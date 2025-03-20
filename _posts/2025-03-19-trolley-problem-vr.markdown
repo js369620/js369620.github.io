@@ -19,5 +19,20 @@ When it came to bringing those sounds into the project, I programmed an audio sy
 
 In the end, the audio experience involves hearing the trolley blowing its horn from afar as the victims attempt to plead with the user. When the trolley arrives, the victims on the chosen side of the tracks scream until they are run over. 
 
+You can listen to some of the voice clips here. Be advised that some are screams, so you may want to adjust your volume accordingly.
+
+[I have a husband!](/assets/Adan_Husband.wav)
+
+[Please, God](/assets/Ava_Mercy.wav)
+
+[Don't do it!](/assets/Makenna_Plead.wav)
+
+[You have to let me out](/assets/Stefan_Discovery.wav)
+
+[Scream 1](/assets/Leanne_Scream.wav)
+
+[Scream 2](/assets/Makenna_Scream.wav)
+
+[Scream 3](/assets/Stefan_Scream1.wav)
 
 You can find the repo here: <a href="https://github.com/gl-rukwa/pr0j3ct-wyrm"> Trolley Problem VR Repository </a>
