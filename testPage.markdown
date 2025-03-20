@@ -13,4 +13,4 @@ Whoa.
 
 [Listen to this.](/assets/Clap_Strong.m4a) 
 
-[Now listen to this.](/assets/Stefan_Scream1.wav)
+[Now listen to this.](/assets/Stefan_Scream1.m4a)
