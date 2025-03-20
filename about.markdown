@@ -3,16 +3,24 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Jack Sherlock. I am a game programmer and designer who has experience with various areas in video game development.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I attended Ohio University originally to study Computer Science, but I knew making video games was what I really wanted to do. So, I switched majors to Virtual Reality and Game Development and focused on learning about more than just the code that goes into making a game. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Beyond my academics, I spent three years as a Resident Assistant with Ohio University's Housing and Residence Life department, and for two years I was the Motion Capture Specialist for the Ohio University Game Research and Immersive Design (GRID) Lab. 
 
+I want to keep making games and work in different areas to keep my skills fresh and diverse. I believe having a well-rounded understanding of the things that go into games is important for a game designer. I also want to be able to make games on my own, so having a bit of everything is a must. 
 
-[jekyll-organization]: https://github.com/jekyll
+Skills
+
+Scripting: C# and C++
+Software: Unity, OptiTrack Motive, and Git
+Production: Game design, systems design, spatial audio design, and narrative design
+Other: time management, public spekaing, and project management
+
+Contact
+
+You can reach me through my <a href="https://www.linkedin.com/in/j-sherlock-m110/"> LinkedIn </a> or my gmail: jtsherlock25@gmail.com. 
+
