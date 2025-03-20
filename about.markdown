@@ -25,5 +25,7 @@ Other: time management, public speaking, and project management
 
 ## Contact
 
+You can find my resume [here.](/assets/SherlockResume_Revised2.pdf)
+
 You can reach me through my <a href="https://www.linkedin.com/in/j-sherlock-m110/"> LinkedIn </a> or my gmail: jtsherlock25@gmail.com. 
 
