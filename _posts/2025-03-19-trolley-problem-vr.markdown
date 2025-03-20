@@ -20,4 +20,4 @@ When it came to bringing those sounds into the project, I programmed an audio sy
 In the end, the audio experience involves hearing the trolley blowing its horn from afar as the victims attempt to plead with the user. When the trolley arrives, the victims on the chosen side of the tracks scream until they are run over. 
 
 
-You can find the repo here: <a href="[https://youtu.be/7HRsYOr8XF4](https://github.com/gl-rukwa/pr0j3ct-wyrm)"> Trolley Problem VR Repository </a>
+You can find the repo here: <a href="=https://github.com/gl-rukwa/pr0j3ct-wyrm"> Trolley Problem VR Repository </a>
