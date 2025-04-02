@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Hi!
 
-I'm Jack Sherlock. I am a game programmer and designer who has experience with various areas in video game development.
+
+I'm Jack Sherlock. I'm a game programmer and designer who has experience with various areas in video game development.
 
 I attended Ohio University originally to study Computer Science, but I knew making video games was what I really wanted to do. So, I switched majors to Virtual Reality and Game Development and focused on learning about more than just the code that goes into making a game. 
 
