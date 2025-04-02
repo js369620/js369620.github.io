@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Band Brawl"
-date:   2025-03-17 14:10:32 -0400
+date:   
 categories: jekyll update
 ---
 
