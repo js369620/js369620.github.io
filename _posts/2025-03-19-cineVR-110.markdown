@@ -13,6 +13,8 @@ This was done in two attempts; the first had audio issues. Since the recording s
 
 For the best experience, use an HMD; if not available, use headphones. A high volume is recommended for full enjoyment. 
 
+{% include youtube.html id="7HRsYOr8XF4" %}
+
 <a href="https://youtu.be/7HRsYOr8XF4"> Marching 110: CineVR in the Stands </a>
 
 Equipment used: 
