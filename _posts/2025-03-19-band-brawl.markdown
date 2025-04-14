@@ -8,7 +8,7 @@ categories: jekyll update
 Band Brawl is a 2D side-scrolling arcade game where the player must survive against an endless horde of enemies. Based on a true story involving the Ohio University Marching 110, the player is a marching band musician who uses musical instruments to fight angry football players.
 
 <video width="640" height="480" controls loop="" muted = "" autoplay="">
-  <source src="/assets/BandBrawl_gameplay.mp4">
+  <source src="/assets/BandBrawl_gameplay.mp4" type="video/mp4">
 </video>
 
 
