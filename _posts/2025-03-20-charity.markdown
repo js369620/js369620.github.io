@@ -9,4 +9,4 @@ Charity was meant to be an exercise in game design and giving meaning to mechani
 
 The game, while its goal is to be the last person standing, is about social etiquette. What makes the game interesting is how strict the group chooses to be in eliminating players; this is supposed to reflect the level of importance etiquette has in the group as well as the potential hypocrisy in enforcing etiquette. The group both determines and learns what is acceptable and what is not, and players may find themselves reflecting on their own social behaviors while playing.  
 
-<object data="/assets/Sherlock_charity.pdf" width="800" height="600" type='application/pdf'/>
+<object data="/assets/Sherlock_charity.pdf" width="600" height="600" type='application/pdf'/>
