@@ -15,8 +15,6 @@ For the best experience, use an HMD; if not available, use headphones. A high vo
 
 {% include youtube.html id="7HRsYOr8XF4" %}
 
-<a href="https://youtu.be/7HRsYOr8XF4"> Marching 110: CineVR in the Stands </a>
-
 Equipment used: 
  - Insta360 One X2 camera
  - Sennheiser Ambeo microphone
