@@ -14,3 +14,4 @@ As the lead programmer, I am in charge of the game’s core design. The thing I 
 This project won first place at the 2025 Ohio University Student Research and Creative Activity Expo in the undergraduate ECT block. 
 
 ![Award](/assets/Expo2025_Award.jpg)
+From left to right: Zach Brill, Grace Cobb, Jack Sherlock, Evan Beers.
