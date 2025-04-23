@@ -26,7 +26,7 @@ You can listen to some of the voice clips here. Be advised that some are screams
 
 [Scream 3](/assets/Stefan_Scream1.m4a)
 
-This project won second place at the 2024 Ohio University Student Research and Creative Activity Expo in the undergraduate ECT block. 
+This project won second place at the 2024 Ohio University Student Research and Creative Activity Expo in the undergraduate emerging communications technology block. 
 
 ![Award](/assets/Expo2024_Award.jpg)
 From left to right: Evan Whalen,  Jack Sherlock, Rowan Knutsen. Not pictured: Ellary Rion.
