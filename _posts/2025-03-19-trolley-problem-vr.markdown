@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trolley Problem VR"
-date:   2025-03-17 14:10:32 -0400
+date:   2025-03-18
 categories: jekyll update
 ---
 Trolley Problem VR is a Unity OpenXR experience that puts the audience in the “trolley problem” dilemma. Will you pull the lever?
