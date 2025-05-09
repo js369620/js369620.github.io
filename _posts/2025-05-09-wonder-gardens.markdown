@@ -9,6 +9,6 @@ This is the concept for an interactive experience about picking flowers and maki
 
 A major part of the experience is the personality test. Attached is an HTML file that will allow you to take the test in a web browser. The personality test was made using Twine and features six possible personality types.  
 
-<a href="/assets/WonderGardensPersonalityTest.html">Personality Test</a>
+<a href="/assets/WonderGardensPersonalityTest.html" download>Personality Test</a>
 
 <object data="/assets/Sherlock_WonderGardens_Final.pdf" width="600" height="700" type='application/pdf'/>
